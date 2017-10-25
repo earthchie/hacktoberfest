@@ -694,3 +694,8 @@ s in Computer Science
 - Place: Granada, Spain
 - Bio: IT Student at the University of Granada
 - GitHub: [Antonio Jesus Pelaez](https://github.com/ajpelaez)
+
+#### Name: [PHUNARA RUANGYOO](https://github.com/omigus)
+- Place: Thailand
+- Bio: Hi Hi !!
+- GitHub: [Omigus](https://github.com/omigus)
